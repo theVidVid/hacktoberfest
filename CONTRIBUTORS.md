@@ -974,6 +974,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Ian Vidaurre]
+- Place: Los Angeles, CA
+- Bio: Full-stack developer
+- Github: [theVidVid](https://github.com/theVidVid)
+
 #### Name: [Igor Rzegocki](https://github.com/ajgon)
 - Place: Kraków, PL
 - Bio: I do Ruby for living, and hacking for fun

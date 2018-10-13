@@ -974,7 +974,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
-#### Name: [Ian Vidaurre]
+#### Name: [Ian Vidaurre](https://github.com/theVidVid)
 - Place: Los Angeles, CA
 - Bio: Full-stack developer
 - Github: [theVidVid](https://github.com/theVidVid)
